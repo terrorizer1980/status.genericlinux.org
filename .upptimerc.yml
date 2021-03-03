@@ -13,7 +13,7 @@ status-website:
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
+  name: Generic Linux Status Page
   introTitle: "Generic Linux Status Page"
   introMessage: This is a status page which uses **real-time** data from our [GitHub repository](https://github.com/Generic-Linux/status.genericlinux.org).
   navbar:
@@ -23,6 +23,15 @@ status-website:
       href: https://github.com/$OWNER/$REPO
     - title: Main Site
       href: https://genericlinux.org
+
+workflowSchedule:
+  graphs: "1 1 1 1 *"
+  responseTime: "1 1 1 1 *"
+  staticSite: "1 1 1 1 *"
+  summary: "1 1 1 1 *"
+  updateTemplate: "1 1 1 1 *"
+  updates: "1 1 1 1 *"
+  uptime: "1 1 1 1 *"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
