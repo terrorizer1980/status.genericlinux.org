@@ -6,7 +6,7 @@ repo: status.genericlinux.org # Your GitHub repository name
 sites:
   - name: Main Site
     url: https://genericlinux.org
-  - name: Pub
+  - name: Downloads
     url: https://pub.genericlinux.org
 
 status-website:
