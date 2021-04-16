@@ -14,7 +14,7 @@ status-website:
   cname: status.genericlinux.org
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://raw.githubusercontent.com/Generic-Linux/status.genericlinux.org/master/assets/upptime-icon.svg
   name: Generic Linux Status Page
   introTitle: "Generic Linux Status Page"
   introMessage: This is a status page which uses **real-time** data from our [GitHub repository](https://github.com/Generic-Linux/status.genericlinux.org).
