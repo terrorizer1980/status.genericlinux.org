@@ -26,17 +26,17 @@
     "url": "https://pub.genericlinux.org",
     "icon": "https://favicons.githubusercontent.com/pub.genericlinux.org",
     "slug": "downloads",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 267,
-    "timeDay": 301,
-    "timeWeek": 242,
-    "timeMonth": 267,
-    "timeYear": 267,
+    "time": 265,
+    "timeDay": 253,
+    "timeWeek": 241,
+    "timeMonth": 265,
+    "timeYear": 265,
     "dailyMinutesDown": {}
   }
 ]
