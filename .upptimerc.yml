@@ -8,6 +8,8 @@ sites:
     url: https://genericlinux.org
   - name: Downloads
     url: https://pub.genericlinux.org
+  - name: Mail
+    url: https://mail.genericlinux.org
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
