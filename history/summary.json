@@ -44,17 +44,17 @@
     "url": "https://mail.genericlinux.org",
     "icon": "https://favicons.githubusercontent.com/mail.genericlinux.org",
     "slug": "mail",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 4570,
-    "timeDay": 8459,
-    "timeWeek": 4570,
-    "timeMonth": 4570,
-    "timeYear": 4570,
+    "time": 5098,
+    "timeDay": 8883,
+    "timeWeek": 5098,
+    "timeMonth": 5098,
+    "timeYear": 5098,
     "dailyMinutesDown": {}
   }
 ]
