@@ -35,7 +35,7 @@
     "time": 265,
     "timeDay": 157,
     "timeWeek": 191,
-    "timeMonth": 256,
+    "timeMonth": 258,
     "timeYear": 265,
     "dailyMinutesDown": {}
   },
@@ -44,7 +44,7 @@
     "url": "https://mail.genericlinux.org",
     "icon": "https://favicons.githubusercontent.com/mail.genericlinux.org",
     "slug": "mail",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
